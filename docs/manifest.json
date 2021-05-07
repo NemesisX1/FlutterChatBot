@@ -1,6 +1,6 @@
 {
-    "name": "TemplateBot_DialogFlow",
-    "short_name": "TemplateBot_DialogFlow",
+    "name": "Epitech Chatbot",
+    "short_name": "Epitech Chatbot",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
@@ -8,14 +8,13 @@
     "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
-    "icons": [
-        {
-            "src": "icons/Icon-192.png",
+    "icons": [{
+            "src": "http://www.epitech.eu/favicon.ico",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-512.png",
+            "src": "http://www.epitech.eu/favicon.ico",
             "sizes": "512x512",
             "type": "image/png"
         }
