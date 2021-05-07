@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
-import 'package:TemplateBot_DialogFlow/dialogflow/v2/auth_google.dart';
+import 'package:FlutterChatBot/dialogflow/v2/auth_google.dart';
 import 'package:meta/meta.dart';
 
 class Intent {

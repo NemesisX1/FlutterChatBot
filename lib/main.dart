@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:TemplateBot_DialogFlow/dialogflow/dialogflow_v2.dart';
-import 'package:TemplateBot_DialogFlow/widget/custom_widget.dart';
-import 'package:TemplateBot_DialogFlow/sms.dart';
+import 'package:FlutterChatBot/dialogflow/dialogflow_v2.dart';
+import 'package:FlutterChatBot/widget/custom_widget.dart';
+import 'package:FlutterChatBot/sms.dart';
 
 void main() {
   runApp(MyApp());

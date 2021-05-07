@@ -1,4 +1,4 @@
-package com.example.TemplateBot_DialogFlow
+package com.example.FlutterChatBot
 
 import io.flutter.embedding.android.FlutterActivity
 

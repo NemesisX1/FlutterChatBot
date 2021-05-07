@@ -34993,7 +34993,7 @@ o.a=n.h(p,"text")
 n.h(p,"postback")
 r.push(o)}}}
 F.C4.prototype={
-U:function(a,b){return new S.rY(new F.qx(!1,null),"Flutter Demo",X.acC(null,C.na,X.acO()),!1,null)}}
+U:function(a,b){return new S.rY(new F.qx(!1,null),"Epitech Chatbot",X.acC(null,C.na,X.acO()),!1,null)}}
 F.yx.prototype={
 U:function(a,b){var s=null,r=T.aaM(T.lE(s,s,s)),q=b.a3(t.w).f.a.a*0.19
 return new B.A_(H.c([r,new T.ft(new V.aE(q,0,q,0),new T.kq(C.p0,s,s,L.oI("Nao Marvin Jr",s,s,s,A.lT(s,s,K.aK(b).x,s,s,s,s,s,"Nunito",s,s,20,s,s,s,s,!0,s,s,s,s,s,s),s,s),s),s),T.aaM(T.lE(s,s,s))],t.fQ),s)}}
