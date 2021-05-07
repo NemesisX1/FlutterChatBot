@@ -1,6 +1,7 @@
-# TemplateBot_DialogFlo
+# An Epitech Chatbot builded with Dialogflow
 
-MADE BY NEMESISX1
+This is a simple Flutter + Dialogflow app in order to lead a simple discussion
+with someone about [Epitech Benin](https://epitech.bj/).
 
 This project is a starting point for a Flutter application.
 
