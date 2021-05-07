@@ -16,8 +16,8 @@ const RESOURCES = {
 "assets/packages/line_icons/lib/assets/fonts/LineIcons.ttf": "8d0d74fa070d25f1d57e29df18800b8a",
 "assets/FontManifest.json": "311a20c42374344de76ed0e0a77d2c19",
 "main.dart.js": "10c8081e09c3992322d1d33ed57194fb",
-"index.html": "d7c7a79cecf6467fa5ae959af694c36a",
-"/": "d7c7a79cecf6467fa5ae959af694c36a",
+"index.html": "9756c509bf7b133673f8b3d4ff189524",
+"/": "9756c509bf7b133673f8b3d4ff189524",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "version.json": "8d64914bbf74a4df1a2b31d9aeb456b3"
